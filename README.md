@@ -2,6 +2,9 @@
   <img src="https://i.postimg.cc/zv8cTkYc/koakc.png" />
 <p align="center">
   I will eventually work on this. Probably.
+
+  <p align="center">
+    Rent lowering gunshots: I am profic and anti-censorship + anti-harrassment.
 <!--
 **radicalmat/radicalmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
