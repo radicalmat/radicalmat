@@ -1,15 +1,7 @@
-<p align=center>
-  
-![](https://i.postimg.cc/zv8cTkYc/koakc.png)
-
-</p>
-
-<p align=center>
-
-I will work on this eventually.
-
-</p>
-
+<p align="center">
+  <img src="https://i.postimg.cc/zv8cTkYc/koakc.png" />
+<p align="center">
+  I will eventually work on this. Probably.
 <!--
 **radicalmat/radicalmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
