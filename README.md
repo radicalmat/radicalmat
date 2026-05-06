@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.postimg.cc/zv8cTkYc/koakc.png" />
+  <img src="https://i.postimg.cc/FsVWjhC8/090i0.png" />
 </p>
 <p align="center">
-  Sunday or Noctis + Dakota. You may also refer to me by Koa or Eve.
+  Yulian or Myosotis. Alternatively Imia or Aether works as well.
 </p>
 <p align="center">
   No pronouns preferrably, but he/him or shi/hir is fine if you must.
