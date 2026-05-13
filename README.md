@@ -1,4 +1,7 @@
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=radicalmat&color=add0d4&label=♡_faggots"</img>
+</p>
+<p align="center">
   <img src="https://i.postimg.cc/NGr0hmBK/090in.png" />
   <p align="center">
   <b>Yulian</b>, Myosotis, Imia or Aether. He/him or shi/hir is preferred, but anything <a href="https://pronouns.cc/@hellblau/000">here</a> works fine. I am twenty-three.
@@ -13,6 +16,7 @@
 
   <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i52yew7embibzucc4pwoyjncwm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i52yew7embibzucc4pwoyjncwm&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+
