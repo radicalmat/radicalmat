@@ -10,3 +10,9 @@
     Rent lowering gunshots: I am <b>profic</b> and <b>anti-censorship</b> + <b>anti-harrassment</b>. those who are -18 & antiship people (especially those who "like" nitro+chiral medias) <b>DNI</b> or I'll tear my head off in front of you.
     <p align="center">
   <img src="https://i.postimg.cc/wj9xsrJn/090im.png" />
+
+  <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i52yew7embibzucc4pwoyjncwm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
